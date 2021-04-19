@@ -544,7 +544,7 @@ static inline int64_t k_uptime_delta(int64_t *reftime)
      544:	e9dd 2302 	ldrd	r2, r3, [sp, #8]
      548:	2b00      	cmp	r3, #0
      54a:	bf08      	it	eq
-     54c:	2a05      	cmpeq	r2, #5
+     54c:	2a07      	cmpeq	r2, #7
      54e:	d3ef      	bcc.n	530 <CONFIG_BT_HCI_ECC_STACK_SIZE+0xe4>
 			prog++;
      550:	3601      	adds	r6, #1
@@ -671,7 +671,7 @@ static inline int64_t k_uptime_delta(int64_t *reftime)
      660:	e9dd 2306 	ldrd	r2, r3, [sp, #24]
      664:	2b00      	cmp	r3, #0
      666:	bf08      	it	eq
-     668:	2a05      	cmpeq	r2, #5
+     668:	2a07      	cmpeq	r2, #7
      66a:	d3ef      	bcc.n	64c <CONFIG_BT_COMPANY_ID+0x5b>
 			prog++;
      66c:	3601      	adds	r6, #1

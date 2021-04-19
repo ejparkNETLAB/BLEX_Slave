@@ -3,7 +3,7 @@
 Welcome to BLEX on the Master side.
 
 This repo demonstrates how to reproduce the results from
-[_BLEX: Flexible Multi-Connection Scheduling for Bluetooth Low Energy_](https://arxiv.org/abs/1812.05784) (to be published at IPSN 2021) on the
+[_BLEX: Flexible Multi-Connection Scheduling for Bluetooth Low Energy_](https://drive.google.com/file/d/1txzinSNUsFuD-SCqadtUpBoXayle00vF/view) (to be published at IPSN 2021) on the
 [Zephyr project](https://www.zephyrproject.org/). 
 
 ![BLEX_result](https://user-images.githubusercontent.com/62861175/114977049-fcacec80-9ec1-11eb-8bf4-992f851f4be2.png)

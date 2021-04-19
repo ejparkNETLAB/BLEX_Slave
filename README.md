@@ -1,6 +1,6 @@
 # BLEX
 
-Welcome to BLEX on the Master side.
+Welcome to BLEX on the Slave side.
 
 This repo demonstrates how to reproduce the results from
 [_BLEX: Flexible Multi-Connection Scheduling for Bluetooth Low Energy_](https://drive.google.com/file/d/1txzinSNUsFuD-SCqadtUpBoXayle00vF/view) (to be published at IPSN 2021) on the
